@@ -1,9 +1,6 @@
 # Proyecto Backend y Frontend Básico para Gestión de Libros
-
-Este proyecto es un ejemplo simple de una API REST para la gestión de libros usando Flask en el backend, y un frontend básico en HTML/JavaScript con Bootstrap para consumir la API.
-
+Nombre y Apellido: Thiago Almada
 ---
-
 ## Requisitos
 
 - Python 3.x  
@@ -20,5 +17,5 @@ Este proyecto es un ejemplo simple de una API REST para la gestión de libros us
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate      # En Windows: venv\Scripts\activate
+source venv/bin/activate
 pip install -r requirements.txt
